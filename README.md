@@ -22,7 +22,7 @@ BUT however I've found another way, *uploading the image to a temporary cloud st
 <img src="https://nyc3.digitaloceanspaces.com/memecreator-cdn/media/__processed__/518/template-yeah-this-is-big-brain-time-1619-0c6db91aec9c.jpeg" align="center" height="191" width="340">
 
 So work to be done:
-  * Get all the required libraries ready.
-  * Use the pre-trained model and make some predictions to make sure everything is working fine.
-  * Find a way to download the image and *try* to store the image name/path in a variable so that the user doesn't have to edit much code.
+  * Get all the required libraries ready. ✅
+  * Use the pre-trained model and make some predictions to make sure everything is working fine. ✅
+  * Find a way to download the image and *try* to store the image name/path in a variable so that the user doesn't have to edit much code. ✅
   * After completing a fully working Colab notebook, try and make code for users who want to do this whole process locally in their PC.
