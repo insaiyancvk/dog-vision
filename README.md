@@ -30,7 +30,7 @@ So work to be done:
 ## How to use the code?
 
   * Open the [notebook](https://colab.research.google.com/github/insaiyancvk/dog-vision/blob/main/Dog_Vision.ipynb) and click connect.
-![](https://github.com/insaiyancvk/dog-vision/raw/main/connect.png)
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/connect.png">
 
   * You literally have the steps given in the notebook itself. I'll anyways give detailed instructions here.
   
