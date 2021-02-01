@@ -30,22 +30,22 @@ So work to be done:
 ## How to use the code?
 
   * Open the [notebook](https://colab.research.google.com/github/insaiyancvk/dog-vision/blob/main/Dog_Vision.ipynb) and click connect.
-<img src="https://github.com/insaiyancvk/dog-vision/raw/main/connect.png">
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/images/connect.png">
 
   * You literally have the steps given in the notebook itself. I'll anyways give detailed instructions here.
   
-<img src="https://github.com/insaiyancvk/dog-vision/raw/main/steps.png" align="center" height="228" width="741">
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/images/steps.png" align="center" height="228" width="741">
   
   1. So as you can see, you just have to replace the link with your dog's picture to that `custom_url` variable. (double quotes are **mandatory**)
 
-<img src="https://github.com/insaiyancvk/dog-vision/raw/main/url.png" align="center" height="199" width="711">
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/images/url.png" align="center" height="199" width="711">
   
   2. Go to runtime ➡ "run all".
 
-<img src="https://github.com/insaiyancvk/dog-vision/raw/main/run-all.png" align="center" height="273" width="540">
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/images/run-all.png" align="center" height="273" width="540">
 
   3. And go to the end of the notebook to see something like this ⬇
 
-<img src="https://github.com/insaiyancvk/dog-vision/raw/main/vysnav.png" align="center" height="367" width="362">
+<img src="https://github.com/insaiyancvk/dog-vision/raw/main/images/vysnav.png" align="center" height="367" width="362">
 
 (I've used [@vyansv's](https://github.com/vyshnavp6423355) picture xD, thanks vysnav)
