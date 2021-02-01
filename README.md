@@ -1,6 +1,6 @@
 # Project Dog Vision!
 
-This is a project I've done to learn how transfer learning works and some basics of deep learning. Want to use it? go [here](#How-to-use-the-code?)
+This is a project I've done to learn how transfer learning works and some basics of deep learning. Want to use it? go [here](#how-to-use-the-code)
 
 What does it do: Recognizes the breed of a dog. So I've used the Kaggle's dog breed identification [dataset](https://www.kaggle.com/c/dog-breed-identification/data#)
 
